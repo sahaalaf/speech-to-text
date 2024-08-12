@@ -2,7 +2,7 @@
 
 **Textualize** is a powerful speech-to-text application that enables users to convert their spoken words into text with ease. This React-based app supports multiple languages and provides a seamless user experience with intuitive controls.
 
-![Textualize](/speech-to-text/textualize.png)
+![Textualize](textualize.png)
 
 ## 🌟 Features
 
