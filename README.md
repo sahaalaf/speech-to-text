@@ -47,4 +47,4 @@
 Feel free to contribute to this project by submitting issues or pull requests. All contributions are welcome!
 
 
-Made with ❤️ by [Your Name](https://github.com/sahaalaf)
+Made with ❤️ by [Sahal Sajeed](https://github.com/sahaalaf)
